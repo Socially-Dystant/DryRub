@@ -68,14 +68,12 @@ Invite Permissions:	Commissioner Only
 Offense	League Value	Yahoo Default Value
 Passing Yards	25 yards per point; 5 points at 300 yards; 5 points at 350 yards; 5 points at 400 yards	
 Passing Touchdowns
-Yahoo Default
-6	4
+6	
 Interceptions	-1	
 Rushing Yards	10 yards per point; 5 points at 100 yards; 5 points at 140 yards; 5 points at 180 yards	
 Rushing Touchdowns	6	
 Receptions
-Yahoo Default
-1	0.5
+1
 Receiving Yards	10 yards per point; 5 points at 100 yards; 5 points at 140 yards; 5 points at 180 yards	
 Receiving Touchdowns	6	
 Return Yards	10 yards per point	0
@@ -84,40 +82,29 @@ Return Touchdowns	6
 Fumbles Lost	-2	
 Offensive Fumble Return TD	6	
 Pick Sixes Thrown
-Yahoo Default
--4	0
+-4	
 40+ Yard Completions
-Yahoo Default
-5	0
+5	
 40+ Yard Passing Touchdowns
-Yahoo Default
-5	0
+5
 40+ Yard Run
-Yahoo Default
-5	0
+5
 40+ Yard Rushing Touchdowns
-Yahoo Default
-5	0
+5
 40+ Yard Receptions
-Yahoo Default
-5	0
+5
 40+ Yard Receiving Touchdowns
-Yahoo Default
-5	0
+5
 Kickers	League Value	Yahoo Default Value
 Field Goals 0-19 Yards
-Yahoo Default
-2	3
+2	
 Field Goals 20-29 Yards	3	
 Field Goals 30-39 Yards
-Yahoo Default
-4	3
+4
 Field Goals 40-49 Yards
-Yahoo Default
-6	4
+6
 Field Goals 50+ Yards
-Yahoo Default
-8	5
+8
 Point After Attempt Made	1	
 Defense/Special Teams	League Value	Yahoo Default Value
 Sack	1	
