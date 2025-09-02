@@ -65,7 +65,7 @@ Negative Points:	Yes
 Lock Benched Players:	No
 Make League Publicly Viewable:	No
 Invite Permissions:	Commissioner Only
-Offense	League Value	Yahoo Default Value
+Offense	League Value
 Passing Yards	25 yards per point; 5 points at 300 yards; 5 points at 350 yards; 5 points at 400 yards	
 Passing Touchdowns
 6	
@@ -95,7 +95,7 @@ Pick Sixes Thrown
 5
 40+ Yard Receiving Touchdowns
 5
-Kickers	League Value	Yahoo Default Value
+Kickers	League Value
 Field Goals 0-19 Yards
 2	
 Field Goals 20-29 Yards	3	
@@ -106,7 +106,7 @@ Field Goals 40-49 Yards
 Field Goals 50+ Yards
 8
 Point After Attempt Made	1	
-Defense/Special Teams	League Value	Yahoo Default Value
+Defense/Special Teams	League Value
 Sack	1	
 Interception	2	
 Fumble Recovery	2	
